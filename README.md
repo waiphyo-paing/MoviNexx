@@ -1,6 +1,6 @@
 # MoviNexx
 
-     Your go-to destination for all things movies. Powered by an API, Movie-app delivers a seamless movie-watching experience right at your fingertips.
+Your go-to destination for all things movies. Powered by an API, Movie-app delivers a seamless movie-watching experience right at your fingertips.
 
 ## Setup
 
