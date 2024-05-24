@@ -50,4 +50,4 @@ The application will be available at http://localhost:3000.
 
 ## API Documentation
 
-For more details on available endpoints, refer to the [API Documentation](./docs/api.md).
+For more details on available endpoints, refer to the [API Documentation](./docs/moviedb_api.md).
